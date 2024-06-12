@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\projects\c++\hfinject\hfinject\source.cpp(56): warning C4018: '<': signed/unsigned mismatch
+  HFInject.vcxproj -> D:\Projects\C++\HFInject\Debug\HFInject.exe
+  HFInject.vcxproj -> D:\Projects\C++\HFInject\Debug\HFInject.pdb (Partial PDB)
